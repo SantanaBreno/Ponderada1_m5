@@ -15,3 +15,7 @@ Criação de uma função de que diz olá para algum nome
 #### feat: Criação de uma classe
 
 Criação de uma classe que tem a propriedade de name e um metodo que cumprimenta
+
+#### feat: Mundança na classe(master)
+
+Mudança na classe da master para da conflito com a branch classe_nova
