@@ -15,3 +15,4 @@ Criação de uma função de que diz olá para algum nome
 #### feat: Criação de uma classe
 
 Criação de uma classe que tem a propriedade de name e um metodo que cumprimenta
+
