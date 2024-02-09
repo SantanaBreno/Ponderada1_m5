@@ -1,4 +1,10 @@
-def comprimentar(name):
-    print(f'olá {name}')
+class Pessoa():
+    def __init__(self, name):
+        self.name = name
 
-comprimentar('Breno')
+    def cumprimentar(self):
+        print(f'Olá {self.name}')
+
+pessoa = Pessoa('Breno')
+
+pessoa.cumprimentar()
