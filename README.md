@@ -16,6 +16,12 @@ Criação de uma função de que diz olá para algum nome
 
 Criação de uma classe que tem a propriedade de name e um metodo que cumprimenta
 
+
+####  Mudança na classe(classe_nova)
+
+A intenção desse commit é da conflito com a main quando dar o merge
+
 #### feat: Mundança na classe(master)
 
 Mudança na classe da master para da conflito com a branch classe_nova
+
